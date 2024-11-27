@@ -1,0 +1,10 @@
+
+.Foto {
+    width: 100%;
+    display: flex;
+}
+
+.Foto img {
+   height: 500px;
+   margin: 5px;
+}
